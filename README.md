@@ -50,9 +50,10 @@ Viele Menschen haben Schwierigkeiten, sich im "Dschungel" der Bürokratie zurech
 
 ## 📌 Projektstatus
 
-🚧 **In aktiver Entwicklung**  
-→ Erste Tests mit KI-Integration und GUI laufen.  
-→ Fokus aktuell: saubere Grundarchitektur und lokale Sicherheit.
+📝 **Konzeptphase**  
+→ Ideen werden gesammelt und dokumentiert.  
+→ Erste Architekturüberlegungen und Grundlagenrecherche im Gange.  
+→ Entwicklung beginnt voraussichtlich zu einem späteren Zeitpunkt..
 
 ---
 
