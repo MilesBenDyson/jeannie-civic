@@ -57,3 +57,20 @@ coverage.xml
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
