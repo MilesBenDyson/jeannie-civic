@@ -1,16 +1,52 @@
+# ✨ Jeannie Civic
 
-# My Dream of Jeannie — Civic 🏛️🧞‍♀️
+Ein digitaler Assistent für Alltag und Behörden — offlinefähig, sicher, persönlich.
 
-## Projektvision
+---
 
-**My Dream of Jeannie - Civic** ist ein geplantes Modul im Rahmen des Jeannie-Projekts. Ziel ist es, Menschen in prekären Lebenslagen dabei zu helfen, ihre Behördenangelegenheiten und alltägliche Verwaltungsaufgaben besser zu bewältigen.
+## 🚀 Ziel des Projekts
 
-## Ethik & Grundhaltung
+**Jeannie Civic** ist ein KI-basierter, lokal laufender Desktop-Assistent, inspiriert von *My Dream of Jeannie*.  
+Er soll insbesondere Menschen in schwierigen Lebenslagen unterstützen — etwa beim Umgang mit Behörden, Formularen und Alltagsthemen.
 
-> *Jeannie Civic hilft verstehen — sie ersetzt keine juristische Beratung und trifft keine Entscheidungen für den Menschen.*
+### Warum?  
+Viele Menschen haben Schwierigkeiten, sich im "Dschungel" der Bürokratie zurechtzufinden.  
+**Jeannie Civic** soll hier **digitale Hilfe leisten**, ohne Abhängigkeit von Cloud-Diensten oder externer Infrastruktur.
 
-## Gesellschaftlicher Wert
+---
 
-- Unterstützung bei Behördenkontakt
-- Förderung von Selbstwirksamkeit
-- Beitrag zur digitalen Inklusion
+## 🎯 Geplante Features
+
+- 🧞‍♀️ Persönlicher Avatar (Jeannie), individuell ansprechbar
+- 🗂️ Unterstützung beim Verstehen und Ausfüllen von Formularen
+- 🕰️ Erinnerungen an Termine und Fristen
+- 🗃️ Dokumente einlesen und erklären (lokale KI)
+- 🖥️ Offline-Modus mit optionalem sicheren Online-Zugriff
+- 🔒 Fokus auf Datenschutz und Autonomie
+
+---
+
+## ⚙️ Technisches Setup
+
+- 🐍 Python-basierte Desktop-App
+- 🧠 Lokale KI-Modelle (z.B. GPT4All)
+- 🎨 GUI mit Animationen (z.B. Rauchwolke, Avatar-Elemente)
+- 🗂️ Lokale Wissensbasis
+
+---
+
+## 📌 Projektstatus
+
+🚧 **In aktiver Entwicklung**  
+→ Erste Tests mit KI-Integration und GUI laufen.  
+→ Fokus aktuell: saubere Grundarchitektur und lokale Sicherheit.
+
+---
+
+## 📝 Lizenz
+
+Dieses Projekt steht unter der [MIT License](LICENSE.txt).
+
+---
+
+© 2025 MilesBenDyson
