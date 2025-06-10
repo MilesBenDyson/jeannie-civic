@@ -1,5 +1,18 @@
 # ✨ Jeannie Civic
 
+![License](https://img.shields.io/github/license/MilesBenDyson/jeannie-civic)
+![Project Status](https://img.shields.io/badge/status-concept--phase-lightgrey)
+
+---
+
+**Hinweis:**  
+Dieses Projekt befindet sich derzeit in der **Konzeptphase**.  
+Die Entwicklung wird voraussichtlich erst zu einem späteren Zeitpunkt beginnen, da es sich um ein sehr komplexes Vorhaben handelt.
+
+Das Repository dient aktuell der **Sammlung von Ideen**, der **Planung** und dem **Erarbeiten von Grundlagen**.
+
+---
+
 Ein digitaler Assistent für Alltag und Behörden — offlinefähig, sicher, persönlich.
 
 ---
